@@ -4,6 +4,8 @@ import { getStorage } from 'firebase/storage';
 
 const firebaseConfig = {
   //link react app to firebase 
+  //you can get your config data after creating a webapp in firebase
+  //just paste it here
 };
 
 
