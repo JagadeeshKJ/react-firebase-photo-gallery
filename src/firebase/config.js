@@ -3,12 +3,7 @@ import { getFirestore } from 'firebase/firestore';
 import { getStorage } from 'firebase/storage';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDDdZ_P73aXPAPqi4cLHgGizPiSRJLbUaQ",
-  authDomain: "firegram-8cab6.firebaseapp.com",
-  projectId: "firegram-8cab6",
-  storageBucket: "firegram-8cab6.appspot.com",
-  messagingSenderId: "996912954557",
-  appId: "1:996912954557:web:4aca17597fd2bacec7cbd4"
+  //link react app to firebase 
 };
 
 
